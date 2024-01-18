@@ -1,10 +1,4 @@
 
-
-<p align="center">Desafiador de sí proprio com a tecnologia. <br><br> Até o desenvolvimento back-end usando java <strong>apaixonado por descobrir coisas novas</strong> e usá-los para criar soluções de alta qualidade. Hoje sou <strong>back-end mid-level developer</strong> focado em desenvolvimento web.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=OyakXD&theme=radical&mode=weekly" />
- 
 </div>
 
  &nbsp;
