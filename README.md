@@ -25,7 +25,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Springboot%20%20-darkgreen?style=for-the-badge&logo=springboot)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL%20%20-darkblue?style=for-the-badge&logo=mysql)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL%20%20-grey?style=for-the-badge&logo=mysql)&nbsp;
 
 #### Workstation Tools:
 
