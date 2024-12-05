@@ -4,7 +4,6 @@
 [![StackOverFlow](https://img.shields.io/badge/StackOverFlow-FF6400?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21759184/kayo)
 
 [![Kayo Github stats](https://github-readme-stats.vercel.app/api?username=oyakxd&theme=blue-green)]()
-[![Kayo Github Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=oyakxd&theme=blue-green)]()
 
 
 # 💻 Tech Stack
