@@ -1,55 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
-  <style>
-    .keyColor { fill: #ffa657; }
-    .valueColor { fill: #a5d6ff; }
-    .commentColor { fill: #8b949e; }
-    text, tspan { white-space: pre; }
-  </style>
-  <rect width="970px" height="530px" fill="#161b22" rx="15"/>
-  <text x="15" y="30" fill="#c9d1d9" class="ascii">
-    <tspan x="13" y="30">         .-/+oossssoo+/-. </tspan>
-    <tspan x="13" y="50"> `    `:+ssssssssssssssssss+:`  </tspan>
-    <tspan x="13" y="70">     -+ssssssssssssssssssyyssss+- </tspan>
-    <tspan x="13" y="90">   .ossssssssssssssssssdMMMNysssso. </tspan>
-    <tspan x="13" y="110">  /ssssssssssshdmmNNmmyNMMMMhssssss/ </tspan>
-    <tspan x="13" y="130">  +ssssssssshmydMMMMMMMNddddyssssssss+ </tspan>
-    <tspan x="13" y="150">  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/ </tspan>
-    <tspan x="13" y="170"> .ssssssssdMMMNhsssssssssshNMMMdssssssss. </tspan>
-    <tspan x="13" y="190">  +sssshhhyNMMNyssssssssssssyNMMMysssssss+ </tspan>
-    <tspan x="13" y="210">  ossyNMMMNyMMhsssssssssssssshmmmhssssssso  </tspan>
-    <tspan x="13" y="230">  ossyNMMMNyMMhsssssssssssssshmmmhssssssso </tspan>
-    <tspan x="13" y="250">  +sssshhhyNMMNyssssssssssssyNMMMysssssss+  </tspan>
-    <tspan x="13" y="270">  .ssssssssdMMMNhsssssssssshNMMMdssssssss. </tspan>
-    <tspan x="13" y="290">   /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/</tspan>
-    <tspan x="13" y="310">    +sssssssssdmydMMMMMMMMddddyssssssss+ </tspan>
-    <tspan x="13" y="330">     /ssssssssssshdmNNNNmyNMMMMhssssss/ </tspan>
-    <tspan x="13" y="350">      .ossssssssssssssssssdMMMNysssso.  </tspan>
-    <tspan x="13" y="370">        -+sssssssssssssssssyyyssss+-  </tspan>
-    <tspan x="13" y="390">          `:+ssssssssssssssssss+:`  </tspan>
-    <tspan x="13" y="410">              .-/+oossssoo+/-. </tspan>
-  </text>
-  <text x="370" y="30" fill="#c9d1d9">
-    <tspan x="370" y="30">OyakXD@github</tspan>
-    <tspan x="370" y="50">——————</tspan>
-    <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Ubuntu OS 24.04.3 Core (Linux)</tspan>
-    <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">5 years</tspan>
-    <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Unknown</tspan>
-    <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Unknown</tspan>
-    <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">NVIM 0.11 / VSCode  1.96</tspan>
-    <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C, C++, ARM, Java, Typescript</tspan>
-    <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Frameworks</tspan>: <tspan class="valueColor">Unknown</tspan>
-    <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Portuguese</tspan>
-    <tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Embedded, Databases, OS's</tspan>
-    <tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">ESP32, Beagle Bone Black, STM32</tspan>
-    <tspan x="370" y="330" class="keyColor">Contact</tspan>:
-    <tspan x="370" y="350">——————</tspan>
-    <tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">alveskayo2005@gmail.com</tspan>
-    <tspan x="370" y="390" class="keyColor">Youtube</tspan>: <tspan class="valueColor">Unknown</tspan>
-    <tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">@oyakdev</tspan>
-    <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-    <tspan x="370" y="470">——————</tspan>
-    <tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">22</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">11</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">500+</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
-    <tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">3</tspan> | <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">6000+</tspan> |
-  </text>
-</svg>
+<pre>
+<span style="color:#c9d1d9;">         
+          .-/+oossssoo+/-.                     <span style="color:#58a6ff;">OyakXD@github</span>
+        `:+ssssssssssssssssss+:`                
+      -+ssssssssssssssssssyyssss+-             <span style="color:#c9d1d9;">OS:</span> <span style="color:#ffa657;">Ubuntu OS 24.4 Core (Linux)</span>
+    .ossssssssssssssssssdMMMNysssso.           <span style="color:#c9d1d9;">Uptime:</span> 3 years
+   /ssssssssssshdmmNNmmyNMMMMhssssss/          <span style="color:#c9d1d9;">Host:</span> Unknown
+  +ssssssssshmydMMMMMMMNddddyssssssss+         <span style="color:#c9d1d9;">Kernel:</span> Unknown
+  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/       <span style="color:#c9d1d9;">IDE:</span> <span style="color:#58a6ff;">NVIM  / VSCode  / Arduino IDE</span>
+ .ssssssssdMMMNhsssssssssshNMMMdssssssss.     
+  +sssshhhyNMMNyssssssssssssyNMMMysssssss+     <span style="color:#c9d1d9;">Languages.Programming:</span> <span style="color:#ffa657;">Python, C, C++, ARMv7, Java</span>
+  ossyNMMMNyMMhsssssssssssssshmmmhssssssso     <span style="color:#c9d1d9;">Languages.Frameworks:</span> <span style="color:#ffa657;">Unknown</span>
+  ossyNMMMNyMMhsssssssssssssshmmmhssssssso     <span style="color:#c9d1d9;">Languages.Real:</span> <span style="color:#ffa657;">English, Portuguese</span>
+  +sssshhhyNMMNyssssssssssssyNMMMysssssss+    
+  .ssssssssdMMMNhsssssssssshNMMMdssssssss.     <span style="color:#c9d1d9;">Hobbies.Software:</span> <span style="color:#58a6ff;">Embedded, Databases, OS's, IoT, Embedded System</span>
+   /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/      <span style="color:#c9d1d9;">Hobbies.Hardware:</span> <span style="color:#58a6ff;">ESP32, Beagle Bone Black, STM32, Arduino</span>
+    +sssssssssdmydMMMMMMMMddddyssssssss+      
+     /ssssssssssshdmNNNNmyNMMMMhssssss/        <span style="color:#c9d1d9;">Contact:</span>
+      .ossssssssssssssssssdMMMNysssso.         <span style="color:#c9d1d9;">Email:</span> <span style="color:#c9d1d9;">alveskayo2005@gmail.com</span>
+        -+sssssssssssssssssyyyssss+-           <span style="color:#c9d1d9;">YouTube:</span> <span style="color:#58a6ff;">Unknown</span>
+          `:+ssssssssssssssssss+:`             <span style="color:#c9d1d9;">Discord:</span> <span style="color:#58a6ff;">oyakdev</span>
+              .-/+oossssoo+/-.                
+                                               
+</span>
+</pre>
