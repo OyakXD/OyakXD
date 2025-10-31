@@ -1,6 +1,6 @@
 <pre>
 <span style="color:#c9d1d9;">         
-          .-/+oossssoo+/-.                     <span style="color:#58a6ff;">OyakXD@github</span>
+            .-/+oossssoo+/-.                     <span style="color:#58a6ff;">OyakXD@github</span>
         `:+ssssssssssssssssss+:`                
       -+ssssssssssssssssssyyssss+-             <span style="color:#c9d1d9;">OS:</span> <span style="color:#ffa657;">Ubuntu OS 24.4 Core (Linux)</span>
     .ossssssssssssssssssdMMMNysssso.           <span style="color:#c9d1d9;">Uptime:</span> 3 years
